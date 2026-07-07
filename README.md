@@ -44,8 +44,6 @@ The project covers the complete ASIC backend flow, including:
 
 ---
 
----
-
 # 🔄 Physical Design Flow
 
 ```text
@@ -84,8 +82,6 @@ GDSII Stream-Out
 
 ---
 
----
-
 # 📊 Implementation Summary
 
 | Metric | Result |
@@ -107,8 +103,6 @@ GDSII Stream-Out
 | PG Short Violations | 0 |
 | Connectivity Violations | 0 |
 | Routing Overflow | 0.00% |
-
----
 
 ---
 
