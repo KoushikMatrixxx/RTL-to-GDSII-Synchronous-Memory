@@ -43,3 +43,43 @@ The project covers the complete ASIC backend flow, including:
 | **Final Output** | GDSII |
 
 ---
+
+---
+
+# 🔄 Physical Design Flow
+
+```text
+RTL Design
+      │
+      ▼
+Logic Synthesis (Cadence Genus)
+      │
+      ▼
+Gate-Level Netlist
+      │
+      ▼
+Floorplanning
+      │
+      ▼
+Power Planning
+      │
+      ▼
+Placement
+      │
+      ▼
+Clock Tree Synthesis (CTS)
+      │
+      ▼
+Post-CTS Optimization
+      │
+      ▼
+Routing
+      │
+      ▼
+Physical Verification
+      │
+      ▼
+GDSII Stream-Out
+```
+
+---
