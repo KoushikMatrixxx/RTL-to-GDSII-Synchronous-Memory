@@ -83,3 +83,48 @@ GDSII Stream-Out
 ```
 
 ---
+
+---
+
+# 📊 Implementation Summary
+
+| Metric | Result |
+|--------|--------|
+| Technology Node | 90nm CMOS |
+| Implementation Tool | Cadence Innovus 21.15 |
+| Synthesis Tool | Cadence Genus |
+| Placement Engine | GigaPlace |
+| CTS Engine | CCOpt |
+| Routing Engine | NanoRoute |
+| Metal Layers | M1–M6 |
+| Operating Corner | SS, 0.9V, 125°C |
+| WNS | 0.927 ns |
+| TNS | 0.000 ns |
+| Clock Skew | 0.015 ns |
+| Maximum Clock Latency | 0.179 ns |
+| Hold Violations | 0 |
+| DRC Violations | 0 |
+| PG Short Violations | 0 |
+| Connectivity Violations | 0 |
+| Routing Overflow | 0.00% |
+
+---
+
+---
+
+# 📂 Repository Structure
+
+```text
+RTL-to-GDSII-Synchronous-Memory
+│
+├── README.md                 # Project documentation
+├── screenshots/              # Layout and implementation images
+├── reports/                  # Timing and verification reports
+├── scripts/                  # Tcl implementation scripts
+├── outputs/                  # Final generated outputs (GDSII, etc.)
+└── docs/                     # Additional documentation
+```
+
+This repository is organized to keep implementation files, reports, scripts, and documentation separate for better readability and easier navigation.
+
+---
