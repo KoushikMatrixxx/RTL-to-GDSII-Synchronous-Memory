@@ -24,3 +24,22 @@ The project covers the complete ASIC backend flow, including:
 - Routing
 - Physical Verification
 - GDSII Stream-Out
+
+---
+
+# 📋 Design Specifications
+
+| Parameter | Value |
+|-----------|-------|
+| **Design Name** | Memory |
+| **Design Type** | Synchronous Memory Block |
+| **Technology Node** | 90nm CMOS |
+| **Implementation Tool** | Cadence Innovus 21.15 |
+| **Synthesis Tool** | Cadence Genus |
+| **Operating System** | Linux x86_64 |
+| **PVT Corner** | SS, 0.9V, 125°C |
+| **Metal Layers Used** | M1–M6 |
+| **Timing Methodology** | MMMC |
+| **Final Output** | GDSII |
+
+---
