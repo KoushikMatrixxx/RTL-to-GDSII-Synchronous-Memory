@@ -1,12 +1,16 @@
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│ PROJECT        : RTL-to-GDSII Physical Design                │
-│ DESIGN         : Synchronous Memory                          │
-│ TOOL           : Cadence Innovus 21.15                       │
-│ TECHNOLOGY     : 90nm CMOS                                  │
-│ STATUS         : ✔ Signoff Complete                         │
-│ OUTPUT         : Final GDSII                                │
-└──────────────────────────────────────────────────────────────┘
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                      ASIC IMPLEMENTATION DASHBOARD                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Design        : Synchronous Memory                                 ║
+║ Flow          : RTL → GDSII                                        ║
+║ Technology    : 90nm CMOS                                          ║
+║ Tool          : Cadence Innovus 21.15                              ║
+║ Timing        : ✔ Clean                                            ║
+║ DRC           : ✔ Clean                                            ║
+║ LVS           : ✔ Clean                                            ║
+║ Output        : final.gds                                          ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ## 📖 Project Overview
