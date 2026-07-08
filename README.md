@@ -1,21 +1,22 @@
 ```text
-root@cadence:~$ run_physical_design
+▐══════════════════════════════════════════════════════════════▌
+        ⚡ RTL → GDSII PHYSICAL DESIGN ENGINE ⚡
 
-Loading technology.............DONE
-Loading standard cells.........DONE
-Reading netlist................DONE
-Floorplanning..................DONE
-Power Planning.................DONE
-Placement......................DONE
-Clock Tree Synthesis...........DONE
-Routing........................DONE
-Signoff Checks.................PASSED
+        Design        : Synchronous Memory
+        Tool          : Cadence Innovus 21.15
+        Technology    : 90nm CMOS
 
-Generating final.gds ...
+        ► Floorplan
+        ► Placement
+        ► CTS
+        ► Routing
+        ► Signoff
+        ► GDSII
 
-SUCCESS
+        SYSTEM STATUS : ✓ IMPLEMENTATION COMPLETE
+
+▐══════════════════════════════════════════════════════════════▌
 ```
-
 
 ## 📖 Project Overview
 
