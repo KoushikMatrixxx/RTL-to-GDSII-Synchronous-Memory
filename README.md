@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=RTL-to-GDSII+Physical+Design;Cadence+Innovus+21.15;Synchronous+Memory+ASIC;Complete+Backend+Implementation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1200&color=FF0000&center=true&width=1000&lines=RTL-to-GDSII+Physical+Design" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1200&color=00FFFF&center=true&width=1000&lines=Cadence+Innovus+21.15" />
 
-![Cadence](https://img.shields.io/badge/Cadence-Innovus-red?style=for-the-badge)
-![Technology](https://img.shields.io/badge/90nm-CMOS-blue?style=for-the-badge)
-![RTL](https://img.shields.io/badge/RTL-Verilog-success?style=for-the-badge)
-![ASIC](https://img.shields.io/badge/ASIC-Physical_Design-orange?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1200&color=00FF00&center=true&width=1000&lines=90nm+CMOS+Technology" />
 
 </div>
 
