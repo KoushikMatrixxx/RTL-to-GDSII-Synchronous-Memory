@@ -163,19 +163,18 @@ Through this project, the following Physical Design concepts were explored and i
 
 ---
 
-# 📂 Repository Structure
+## 📁 Repository Structure
 
 ```text
 RTL-to-GDSII-Synchronous-Memory
 │
-├── README.md                 # Project documentation
-├── screenshots/              # Layout and implementation images
-├── reports/                  # Timing and verification reports
-├── scripts/                  # Tcl implementation scripts
-├── outputs/                  # Final generated outputs (GDSII, etc.)
-└── docs/                     # Additional documentation
+├── README.md               # Project documentation
+│
+├── reports/                # Timing, routing and verification reports
+│
+├── screenshots/            # Physical Design implementation screenshots
+│
+└── scripts/                # TCL scripts for Physical Design flow
 ```
 
-This repository is organized to keep implementation files, reports, scripts, and documentation separate for better readability and easier navigation.
-
----
+This repository is organized to separate implementation scripts, reports, and screenshots, making the complete RTL-to-GDSII Physical Design flow easy to understand and navigate.
