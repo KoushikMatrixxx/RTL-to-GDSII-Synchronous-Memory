@@ -1,22 +1,14 @@
-<div align="center">
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│ PROJECT        : RTL-to-GDSII Physical Design                │
+│ DESIGN         : Synchronous Memory                          │
+│ TOOL           : Cadence Innovus 21.15                       │
+│ TECHNOLOGY     : 90nm CMOS                                  │
+│ STATUS         : ✔ Signoff Complete                         │
+│ OUTPUT         : Final GDSII                                │
+└──────────────────────────────────────────────────────────────┘
+```
 
-# RTL → GDSII
-
-## Physical Design of a Synchronous Memory
-
-Complete ASIC Backend Implementation using Cadence Innovus
-
-<br>
-
-⚡ **RTL** → **Floorplan** → **Placement** → **CTS** → **Routing** → **Signoff** → **GDSII**
-
-<br>
-
-![Cadence](https://img.shields.io/badge/Cadence-Innovus_21.15-red?style=flat-square)
-![Technology](https://img.shields.io/badge/90nm-CMOS-blue?style=flat-square)
-![Flow](https://img.shields.io/badge/Physical_Design-RTL→GDSII-success?style=flat-square)
-
-</div>
 ## 📖 Project Overview
 
 This repository presents the complete ASIC Physical Design implementation of a synchronous memory block, starting from a synthesized gate-level netlist and progressing through every major stage of the RTL-to-GDSII flow.
