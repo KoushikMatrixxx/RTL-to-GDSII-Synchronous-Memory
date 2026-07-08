@@ -1,23 +1,32 @@
-```text
-▐══════════════════════════════════════════════════════════════▌
-        ⚡ RTL → GDSII PHYSICAL DESIGN ENGINE ⚡
+<div align="center">
 
-        Design        : Synchronous Memory
-        Tool          : Cadence Innovus 21.15
-        Technology    : 90nm CMOS
+# 💻⚡🧠 RTL-to-GDSII Physical Design 🧠⚡💻
 
-        ► Floorplan
-        ► Placement
-        ► CTS
-        ► Routing
-        ► Signoff
-        ► GDSII
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-        SYSTEM STATUS : ✓ IMPLEMENTATION COMPLETE
+🧩 Design : **Synchronous Memory**
 
-▐══════════════════════════════════════════════════════════════▌
-```
+🛠 Tool : **Cadence Innovus 21.15**
 
+⚙ Technology : **90nm CMOS**
+
+📦 Output : **Final GDSII**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 Floorplan
+
+🔵 Placement
+
+🟣 CTS
+
+🟡 Routing
+
+🔴 Signoff
+
+🟢 Tapeout Ready
+
+</div>
 ## 📖 Project Overview
 
 This repository presents the complete ASIC Physical Design implementation of a synchronous memory block, starting from a synthesized gate-level netlist and progressing through every major stage of the RTL-to-GDSII flow.
