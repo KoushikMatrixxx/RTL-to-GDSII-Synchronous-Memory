@@ -1,30 +1,13 @@
 <div align="center">
 
-# 💻⚡🧠 RTL-to-GDSII Physical Design 🧠⚡💻
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=RTL-to-GDSII+Physical+Design;Cadence+Innovus+21.15;Synchronous+Memory+ASIC;Complete+Backend+Implementation" />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
 
-🧩 Design : **Synchronous Memory**
-
-🛠 Tool : **Cadence Innovus 21.15**
-
-⚙ Technology : **90nm CMOS**
-
-📦 Output : **Final GDSII**
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🟢 Floorplan
-
-🔵 Placement
-
-🟣 CTS
-
-🟡 Routing
-
-🔴 Signoff
-
-🟢 Tapeout Ready
+![Cadence](https://img.shields.io/badge/Cadence-Innovus-red?style=for-the-badge)
+![Technology](https://img.shields.io/badge/90nm-CMOS-blue?style=for-the-badge)
+![RTL](https://img.shields.io/badge/RTL-Verilog-success?style=for-the-badge)
+![ASIC](https://img.shields.io/badge/ASIC-Physical_Design-orange?style=for-the-badge)
 
 </div>
 ## 📖 Project Overview
