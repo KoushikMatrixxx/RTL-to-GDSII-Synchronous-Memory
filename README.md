@@ -1,17 +1,21 @@
 ```text
-██████████████████████████████████████████████████
+root@cadence:~$ run_physical_design
 
-        RTL → GDSII IMPLEMENTATION
+Loading technology.............DONE
+Loading standard cells.........DONE
+Reading netlist................DONE
+Floorplanning..................DONE
+Power Planning.................DONE
+Placement......................DONE
+Clock Tree Synthesis...........DONE
+Routing........................DONE
+Signoff Checks.................PASSED
 
-          SYNCHRONOUS MEMORY
+Generating final.gds ...
 
-    Cadence Innovus 21.15
-          90nm CMOS
-
-██████████████████████████████████████████████████
-
-STATUS : READY
+SUCCESS
 ```
+
 
 ## 📖 Project Overview
 
