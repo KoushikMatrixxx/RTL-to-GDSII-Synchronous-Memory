@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1200&color=FF0000&center=true&width=1000&lines=RTL-to-GDSII+Physical+Design" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1200&color=00FFFF&center=true&width=1000&lines=Cadence+Innovus+21.15" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1200&color=00FF00&center=true&width=1000&lines=90nm+CMOS+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=0096FF&center=true&width=950&lines=Design+:+Synchronous+Memory;Tool+:+Cadence+Innovus+21.15;Technology+:+90nm+CMOS;Flow+:+RTL→GDSII;Status+:+Signoff+Passed" />
 
 </div>
 
