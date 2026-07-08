@@ -1,23 +1,22 @@
 <div align="center">
 
-# ⚡ RTL → GDSII Physical Design of a Synchronous Memory
+# RTL → GDSII
 
-### Complete ASIC Backend Implementation • Cadence Innovus 21.15 • 90nm CMOS
+## Physical Design of a Synchronous Memory
+
+Complete ASIC Backend Implementation using Cadence Innovus
 
 <br>
 
-![Cadence](https://img.shields.io/badge/Cadence-Innovus_21.15-red?style=for-the-badge&logo=cadence)
-![RTL](https://img.shields.io/badge/RTL-Verilog-blue?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow-RTL→GDSII-brightgreen?style=for-the-badge)
-![Technology](https://img.shields.io/badge/Technology-90nm_CMOS-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Implementation-Signoff_Passed-success?style=for-the-badge)
+⚡ **RTL** → **Floorplan** → **Placement** → **CTS** → **Routing** → **Signoff** → **GDSII**
 
----
+<br>
 
-*"Transforming RTL into a manufacturable ASIC layout through a complete physical design flow."*
+![Cadence](https://img.shields.io/badge/Cadence-Innovus_21.15-red?style=flat-square)
+![Technology](https://img.shields.io/badge/90nm-CMOS-blue?style=flat-square)
+![Flow](https://img.shields.io/badge/Physical_Design-RTL→GDSII-success?style=flat-square)
 
 </div>
-
 ## 📖 Project Overview
 
 This repository presents the complete ASIC Physical Design implementation of a synchronous memory block, starting from a synthesized gate-level netlist and progressing through every major stage of the RTL-to-GDSII flow.
