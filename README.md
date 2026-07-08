@@ -1,21 +1,20 @@
 <div align="center">
 
-# ⚙️ ASIC Physical Design Laboratory
+# ⚡ RTL → GDSII Physical Design of a Synchronous Memory
 
-## RTL-to-GDSII Implementation of a Synchronous Memory
+### Complete ASIC Backend Implementation • Cadence Innovus 21.15 • 90nm CMOS
 
-```text
-██████╗ ████████╗██╗         ██████╗  ██████╗ ██████╗ ███████╗██╗██╗
-██╔══██╗╚══██╔══╝██║        ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║██║
-██████╔╝   ██║   ██║        ██║  ███╗██║  ██║██████╔╝███████╗██║██║
-██╔══██╗   ██║   ██║        ██║   ██║██║  ██║██╔══██╗╚════██║██║██║
-██║  ██║   ██║   ███████╗   ╚██████╔╝██████╔╝██████╔╝███████║██║██║
-╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝╚═╝
-```
+<br>
 
-**Complete RTL → GDSII Physical Design Flow**
+![Cadence](https://img.shields.io/badge/Cadence-Innovus_21.15-red?style=for-the-badge&logo=cadence)
+![RTL](https://img.shields.io/badge/RTL-Verilog-blue?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-RTL→GDSII-brightgreen?style=for-the-badge)
+![Technology](https://img.shields.io/badge/Technology-90nm_CMOS-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Implementation-Signoff_Passed-success?style=for-the-badge)
 
-Cadence Innovus • 90nm CMOS • Signoff Clean
+---
+
+*"Transforming RTL into a manufacturable ASIC layout through a complete physical design flow."*
 
 </div>
 
