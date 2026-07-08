@@ -1,19 +1,16 @@
 ```text
-> INITIALIZING ASIC BACKEND FLOW...
+██████████████████████████████████████████████████
 
-[████████████████████████████] 100%
+        RTL → GDSII IMPLEMENTATION
 
-✓ Floorplan
-✓ Power Planning
-✓ Placement
-✓ Clock Tree Synthesis
-✓ Routing
-✓ RC Extraction
-✓ Timing Closure
-✓ Physical Verification
-✓ GDSII Generated
+          SYNCHRONOUS MEMORY
 
-SYSTEM STATUS : READY FOR TAPEOUT
+    Cadence Innovus 21.15
+          90nm CMOS
+
+██████████████████████████████████████████████████
+
+STATUS : READY
 ```
 
 ## 📖 Project Overview
