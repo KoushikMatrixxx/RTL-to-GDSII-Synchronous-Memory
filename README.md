@@ -11,7 +11,6 @@
 ![Status](https://img.shields.io/badge/Signoff-PASSED-brightgreen?style=for-the-badge)
 
 </div>
-
 ## 📖 Project Overview
 
 This repository presents the complete ASIC Physical Design implementation of a synchronous memory block, starting from a synthesized gate-level netlist and progressing through every major stage of the RTL-to-GDSII flow.
