@@ -1,16 +1,19 @@
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                      ASIC IMPLEMENTATION DASHBOARD                  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ Design        : Synchronous Memory                                 ║
-║ Flow          : RTL → GDSII                                        ║
-║ Technology    : 90nm CMOS                                          ║
-║ Tool          : Cadence Innovus 21.15                              ║
-║ Timing        : ✔ Clean                                            ║
-║ DRC           : ✔ Clean                                            ║
-║ LVS           : ✔ Clean                                            ║
-║ Output        : final.gds                                          ║
-╚══════════════════════════════════════════════════════════════════════╝
+> INITIALIZING ASIC BACKEND FLOW...
+
+[████████████████████████████] 100%
+
+✓ Floorplan
+✓ Power Planning
+✓ Placement
+✓ Clock Tree Synthesis
+✓ Routing
+✓ RC Extraction
+✓ Timing Closure
+✓ Physical Verification
+✓ GDSII Generated
+
+SYSTEM STATUS : READY FOR TAPEOUT
 ```
 
 ## 📖 Project Overview
