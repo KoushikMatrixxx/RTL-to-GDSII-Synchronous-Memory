@@ -1,11 +1,15 @@
-# RTL-to-GDSII Physical Design of a Synchronous Memory
+# 🚀 RTL-to-GDSII Physical Design of a Synchronous Memory
 
 > **Complete ASIC Backend Implementation using Cadence Innovus 21.15 on 90nm CMOS Technology**
 
-![Cadence](https://img.shields.io/badge/Cadence-Innovus%2021.15-red?style=flat-square)
-![Technology](https://img.shields.io/badge/Technology-90nm-blue?style=flat-square)
-![Flow](https://img.shields.io/badge/Flow-RTL--to--GDSII-green?style=flat-square)
-![ASIC](https://img.shields.io/badge/ASIC-Physical%20Design-orange?style=flat-square)
+<p align="center">
+
+![Cadence](https://img.shields.io/badge/Cadence-Innovus%2021.15-red?style=for-the-badge)
+![Technology](https://img.shields.io/badge/Technology-90nm-blue?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-RTL→GDSII-success?style=for-the-badge)
+![ASIC](https://img.shields.io/badge/ASIC-Physical%20Design-orange?style=for-the-badge)
+
+</p>
 
 ---
 
