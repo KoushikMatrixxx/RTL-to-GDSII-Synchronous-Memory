@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3200&pause=1500&color=00D9FF&center=true&vCenter=true&width=1200&lines=RTL-to-GDSII+Physical+Design;Synchronous+Memory+ASIC;Cadence+Innovus+21.15;Floorplan+•+Placement+•+CTS+•+Routing;Timing+Closed+•+Signoff+Clean;Final+GDSII+Generated" />
+# ⚙️ ASIC Physical Design Laboratory
 
-<br>
+## RTL-to-GDSII Implementation of a Synchronous Memory
 
-![Cadence](https://img.shields.io/badge/Cadence-Innovus-red?style=for-the-badge&logo=databricks)
-![RTL](https://img.shields.io/badge/RTL-Verilog-blue?style=for-the-badge)
-![Technology](https://img.shields.io/badge/90nm-CMOS-orange?style=for-the-badge)
-![Flow](https://img.shields.io/badge/RTL→GDSII-Completed-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Signoff-PASSED-brightgreen?style=for-the-badge)
+```text
+██████╗ ████████╗██╗         ██████╗  ██████╗ ██████╗ ███████╗██╗██╗
+██╔══██╗╚══██╔══╝██║        ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║██║
+██████╔╝   ██║   ██║        ██║  ███╗██║  ██║██████╔╝███████╗██║██║
+██╔══██╗   ██║   ██║        ██║   ██║██║  ██║██╔══██╗╚════██║██║██║
+██║  ██║   ██║   ███████╗   ╚██████╔╝██████╔╝██████╔╝███████║██║██║
+╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝╚═╝
+```
+
+**Complete RTL → GDSII Physical Design Flow**
+
+Cadence Innovus • 90nm CMOS • Signoff Clean
 
 </div>
+
 ## 📖 Project Overview
 
 This repository presents the complete ASIC Physical Design implementation of a synchronous memory block, starting from a synthesized gate-level netlist and progressing through every major stage of the RTL-to-GDSII flow.
